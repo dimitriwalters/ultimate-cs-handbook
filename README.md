@@ -1,2 +1,2 @@
-# computer-science-handbook
+# compsci-handbook
 Stuff a computer scientist should know
