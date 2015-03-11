@@ -1,6 +1,6 @@
 # ultimate-cs-handbook
 
-A list of handbooks I created for each important area of Computer Science.
+A list of handbooks for each important area of Computer Science.
 
 * [Programming Languages](https://github.com/dimitriwalters/programming-languages-handbook)
 * [Data Structures](https://github.com/dimitriwalters/data-structures-handbook)
